@@ -1,0 +1,56 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin
+.kotlin/
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+captures/
+
+# Android
+local.properties
+.externalNativeBuild/
+.cxx/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Xcode
+DerivedData/
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+build-Xcode/
+.swiftpm/
+Pods/
+
+# Kotlin/Native
+.konan/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local configurations and logs
+*.local
+*.log
+hs_err_pid_*
+replay_pid_*
