@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "digest"
+include(":library")
